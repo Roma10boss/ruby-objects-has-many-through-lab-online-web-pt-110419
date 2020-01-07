@@ -21,3 +21,4 @@ class Appointement
     self.doctor
   end 
 end 
+end 
